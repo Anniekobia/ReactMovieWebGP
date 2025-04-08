@@ -1,3 +1,4 @@
+// Create a TMDB's account and API key, and update it here
 const API_KEY = "";
 const BASE_URL = "https://api.themoviedb.org/3";
 
